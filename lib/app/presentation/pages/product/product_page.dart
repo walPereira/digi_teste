@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'product_controller.dart';
 
 import '../../../core/core_export.dart';
-import '../../../domain/product/product_entity.dart';
+import '../../../domain/entity/product/product_entity.dart';
 import '../../utils/widgets/product/product_card_widget.dart';
 
 class ProductPage extends BasePage<ProductController> {

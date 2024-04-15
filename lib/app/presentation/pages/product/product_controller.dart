@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import '../../../core/core_export.dart';
-import '../../../domain/cart_item/cart_item_entity.dart';
-import '../../../domain/product/product_entity.dart';
+import '../../../domain/entity/cart_item/cart_item_entity.dart';
+import '../../../domain/entity/product/product_entity.dart';
 import '../../store/get_product_store.dart';
 
 class ProductController extends GetxController {

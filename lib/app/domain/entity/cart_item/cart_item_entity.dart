@@ -1,5 +1,5 @@
 
-import 'package:digi/app/domain/product/product_entity.dart';
+import 'package:digi/app/domain/entity/product/product_entity.dart';
 
 class CartItem {
   final ProductEntity product;
