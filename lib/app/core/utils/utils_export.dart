@@ -5,3 +5,6 @@ export 'http/http_exception.dart';
 export 'http/http_interface.dart';
 export 'http/http_request.dart';
 export 'http/http_response.dart';
+export 'data_manager/data_manager.dart';
+export 'data_manager/observable_state.dart';
+export 'data_manager/state_page.dart';

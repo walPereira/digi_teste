@@ -5,7 +5,7 @@ class ProductBindings extends Bindings {
   @override
   void dependencies() {
     Get.lazyPut(
-      () => ProductController(),
+      () => ProductController(carsStore: Get.find()),
       fenix: true,
     );
   }
